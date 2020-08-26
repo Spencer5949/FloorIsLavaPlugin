@@ -1,0 +1,12 @@
+name: FloorIsLava
+version: ${project.version}
+main: com.spencer5949.floorislava.FloorIsLava
+api-version: 1.13
+authors: [Spencer5949]
+description: Custom Floor Is Lava plugin by Spencer5949#6603
+
+commands:
+  fl:
+    description: This is the main command
+    permission: floorislava.fl
+    usage: /<command>
